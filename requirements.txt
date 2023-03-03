@@ -1,3 +1,5 @@
 # List of required packages for python, anything not built into python such as pandas.
 #pandas==1.5 is saying only version 1.5 of pandas
 pandas
+black
+flake8
